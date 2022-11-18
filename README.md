@@ -6,7 +6,7 @@
 
 ## Share us a :star: if this repo does help
 
-This is the official release of the LEVIR-Ship dataset in "A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset" [[IEEE](https://ieeexplore.ieee.org/document/9791363) | [Lab Server](http://levir.buaa.edu.cn/publications/DRENet.pdf)]. ***(Accepted by TGRS 2022)***
+This is the official release of the LEVIR-Ship dataset in "A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset". The paper can be accessed in [[IEEE](https://ieeexplore.ieee.org/document/9791363) | [Lab Server](http://levir.buaa.edu.cn/publications/DRENet.pdf) | [ResearchGate](https://www.researchgate.net/profile/Keyan-Chen-6/publication/361178478_A_Degraded_Reconstruction_Enhancement-based_Method_for_Tiny_Ship_Detection_in_Remote_Sensing_Images_with_A_New_Large-scale_Dataset/links/62f47d69b8dc8b4403d4ce5e/A-Degraded-Reconstruction-Enhancement-Based-Method-for-Tiny-Ship-Detection-in-Remote-Sensing-Images-With-a-New-Large-Scale-Dataset.pdf)]. ***(Accepted by TGRS 2022)***
 
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
